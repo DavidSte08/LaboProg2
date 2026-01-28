@@ -2,7 +2,7 @@
 {
     public partial class MainPage : ContentPage
     {
-        int count = 1000000000;
+        int count = 0;
 
         public MainPage()
         {

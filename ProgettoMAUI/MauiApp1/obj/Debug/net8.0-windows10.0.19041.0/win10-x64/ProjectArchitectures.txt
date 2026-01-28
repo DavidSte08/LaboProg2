@@ -1,1 +1,1 @@
-C:\Users\uzf668\source\repos\ProgettoMAUI\MauiApp1\MauiApp1.csproj;x64
+C:\Users\uzf668\source\repos\LaboProg2\ProgettoMAUI\MauiApp1\MauiApp1.csproj;x64

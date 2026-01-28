@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36119.2 d17.14
+VisualStudioVersion = 17.14.36119.2
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiApp1", "MauiApp1\MauiApp1.csproj", "{BB70D1EA-117B-429F-8485-7B0B00FA37FE}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Esercizi", "Esercizi", "{68EB111D-D7E8-4D82-9C56-D78F136502B3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Progetto", "Progetto", "{0E7E8294-C8E1-409F-9CEA-C299C52F361E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppConvertitore", "AppConvertitore\AppConvertitore.csproj", "{E0F1B3B1-F553-4911-AA2D-55481C7D2F4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,12 +25,19 @@ Global
 		{BB70D1EA-117B-429F-8485-7B0B00FA37FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB70D1EA-117B-429F-8485-7B0B00FA37FE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BB70D1EA-117B-429F-8485-7B0B00FA37FE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E0F1B3B1-F553-4911-AA2D-55481C7D2F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0F1B3B1-F553-4911-AA2D-55481C7D2F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0F1B3B1-F553-4911-AA2D-55481C7D2F4B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E0F1B3B1-F553-4911-AA2D-55481C7D2F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0F1B3B1-F553-4911-AA2D-55481C7D2F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0F1B3B1-F553-4911-AA2D-55481C7D2F4B}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BB70D1EA-117B-429F-8485-7B0B00FA37FE} = {6C83A596-D32D-B35F-00DD-F0C99B673980}
+		{E0F1B3B1-F553-4911-AA2D-55481C7D2F4B} = {6C83A596-D32D-B35F-00DD-F0C99B673980}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {518B4866-C374-4C8B-AFD8-7CE100814CA0}

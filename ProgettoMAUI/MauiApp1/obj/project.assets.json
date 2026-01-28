@@ -33167,11 +33167,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\uzf668\\source\\repos\\ProgettoMAUI\\MauiApp1\\MauiApp1.csproj",
+      "projectUniqueName": "C:\\Users\\uzf668\\source\\repos\\LaboProg2\\ProgettoMAUI\\MauiApp1\\MauiApp1.csproj",
       "projectName": "MauiApp1",
-      "projectPath": "C:\\Users\\uzf668\\source\\repos\\ProgettoMAUI\\MauiApp1\\MauiApp1.csproj",
+      "projectPath": "C:\\Users\\uzf668\\source\\repos\\LaboProg2\\ProgettoMAUI\\MauiApp1\\MauiApp1.csproj",
       "packagesPath": "C:\\Users\\uzf668\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\uzf668\\source\\repos\\ProgettoMAUI\\MauiApp1\\obj\\",
+      "outputPath": "C:\\Users\\uzf668\\source\\repos\\LaboProg2\\ProgettoMAUI\\MauiApp1\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

@@ -1,12 +1,105 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\uzf668\\source\\repos\\ProgettoMAUI\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\uzf668\\source\\repos\\LaboProg2\\ProgettoMAUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F1B3B1-F553-4911-AA2D-55481C7D2F4B}|AppConvertitore\\AppConvertitore.csproj|c:\\users\\uzf668\\source\\repos\\laboprog2\\progettomaui\\appconvertitore\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0F1B3B1-F553-4911-AA2D-55481C7D2F4B}|AppConvertitore\\AppConvertitore.csproj|solutionrelative:appconvertitore\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F1B3B1-F553-4911-AA2D-55481C7D2F4B}|AppConvertitore\\AppConvertitore.csproj|c:\\users\\uzf668\\source\\repos\\laboprog2\\progettomaui\\appconvertitore\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F1B3B1-F553-4911-AA2D-55481C7D2F4B}|AppConvertitore\\AppConvertitore.csproj|solutionrelative:appconvertitore\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F1B3B1-F553-4911-AA2D-55481C7D2F4B}|AppConvertitore\\AppConvertitore.csproj|c:\\users\\uzf668\\source\\repos\\laboprog2\\progettomaui\\appconvertitore\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0F1B3B1-F553-4911-AA2D-55481C7D2F4B}|AppConvertitore\\AppConvertitore.csproj|solutionrelative:appconvertitore\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F1B3B1-F553-4911-AA2D-55481C7D2F4B}|AppConvertitore\\AppConvertitore.csproj|c:\\users\\uzf668\\source\\repos\\laboprog2\\progettomaui\\appconvertitore\\appconvertitore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0F1B3B1-F553-4911-AA2D-55481C7D2F4B}|AppConvertitore\\AppConvertitore.csproj|solutionrelative:appconvertitore\\appconvertitore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F1B3B1-F553-4911-AA2D-55481C7D2F4B}|AppConvertitore\\AppConvertitore.csproj|c:\\users\\uzf668\\source\\repos\\laboprog2\\progettomaui\\appconvertitore\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F1B3B1-F553-4911-AA2D-55481C7D2F4B}|AppConvertitore\\AppConvertitore.csproj|solutionrelative:appconvertitore\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\uzf668\\source\\repos\\LaboProg2\\ProgettoMAUI\\AppConvertitore\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AppConvertitore\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\uzf668\\source\\repos\\LaboProg2\\ProgettoMAUI\\AppConvertitore\\MainPage.xaml",
+              "RelativeToolTip": "AppConvertitore\\MainPage.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-28T14:07:31.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppConvertitore",
+              "DocumentMoniker": "C:\\Users\\uzf668\\source\\repos\\LaboProg2\\ProgettoMAUI\\AppConvertitore\\AppConvertitore.csproj",
+              "RelativeDocumentMoniker": "AppConvertitore\\AppConvertitore.csproj",
+              "ToolTip": "C:\\Users\\uzf668\\source\\repos\\LaboProg2\\ProgettoMAUI\\AppConvertitore\\AppConvertitore.csproj",
+              "RelativeToolTip": "AppConvertitore\\AppConvertitore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-28T14:03:36.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\uzf668\\source\\repos\\LaboProg2\\ProgettoMAUI\\AppConvertitore\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppConvertitore\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\uzf668\\source\\repos\\LaboProg2\\ProgettoMAUI\\AppConvertitore\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppConvertitore\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T14:02:21.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\uzf668\\source\\repos\\LaboProg2\\ProgettoMAUI\\AppConvertitore\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppConvertitore\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\uzf668\\source\\repos\\LaboProg2\\ProgettoMAUI\\AppConvertitore\\MainPage.xaml.cs",
+              "RelativeToolTip": "AppConvertitore\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T14:02:05.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\uzf668\\source\\repos\\LaboProg2\\ProgettoMAUI\\AppConvertitore\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppConvertitore\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\uzf668\\source\\repos\\LaboProg2\\ProgettoMAUI\\AppConvertitore\\AppShell.xaml",
+              "RelativeToolTip": "AppConvertitore\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-28T14:00:46.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
