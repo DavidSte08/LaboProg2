@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ProgettoMAUI"
+    "\\ProgettoMAUI",
+    "\\ProgettoMAUI\\AppConvertitore"
   ],
-  "SelectedNode": "\\ProgettoMAUI\\ProgettoMAUI.sln",
+  "SelectedNode": "\\ProgettoMAUI\\AppConvertitore\\MainPage.xaml",
   "PreviewInSolutionExplorer": false
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppConvertitore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+5cc41998f814548f65246013599aaaab330810a7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+3a01506dfa3e72a3216441acff1b63655632089a")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppConvertitore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppConvertitore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

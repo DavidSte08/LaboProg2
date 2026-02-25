@@ -11,16 +11,24 @@
       "RelativeMoniker": "D:0:0:{E0F1B3B1-F553-4911-AA2D-55481C7D2F4B}|AppConvertitore\\AppConvertitore.csproj|solutionrelative:appconvertitore\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0F1B3B1-F553-4911-AA2D-55481C7D2F4B}|AppConvertitore\\AppConvertitore.csproj|c:\\users\\uzf668\\source\\repos\\laboprog2\\progettomaui\\appconvertitore\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E0F1B3B1-F553-4911-AA2D-55481C7D2F4B}|AppConvertitore\\AppConvertitore.csproj|solutionrelative:appconvertitore\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E0F1B3B1-F553-4911-AA2D-55481C7D2F4B}|AppConvertitore\\AppConvertitore.csproj|c:\\users\\uzf668\\source\\repos\\laboprog2\\progettomaui\\appconvertitore\\appconvertitore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E0F1B3B1-F553-4911-AA2D-55481C7D2F4B}|AppConvertitore\\AppConvertitore.csproj|solutionrelative:appconvertitore\\appconvertitore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E0F1B3B1-F553-4911-AA2D-55481C7D2F4B}|AppConvertitore\\AppConvertitore.csproj|c:\\users\\uzf668\\source\\repos\\laboprog2\\progettomaui\\appconvertitore\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0F1B3B1-F553-4911-AA2D-55481C7D2F4B}|AppConvertitore\\AppConvertitore.csproj|solutionrelative:appconvertitore\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E0F1B3B1-F553-4911-AA2D-55481C7D2F4B}|AppConvertitore\\AppConvertitore.csproj|c:\\users\\uzf668\\source\\repos\\laboprog2\\progettomaui\\appconvertitore\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0F1B3B1-F553-4911-AA2D-55481C7D2F4B}|AppConvertitore\\AppConvertitore.csproj|solutionrelative:appconvertitore\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F1B3B1-F553-4911-AA2D-55481C7D2F4B}|AppConvertitore\\AppConvertitore.csproj|c:\\users\\uzf668\\source\\repos\\laboprog2\\progettomaui\\appconvertitore\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F1B3B1-F553-4911-AA2D-55481C7D2F4B}|AppConvertitore\\AppConvertitore.csproj|solutionrelative:appconvertitore\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F1B3B1-F553-4911-AA2D-55481C7D2F4B}|AppConvertitore\\AppConvertitore.csproj|c:\\users\\uzf668\\source\\repos\\laboprog2\\progettomaui\\appconvertitore\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0F1B3B1-F553-4911-AA2D-55481C7D2F4B}|AppConvertitore\\AppConvertitore.csproj|solutionrelative:appconvertitore\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +38,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\uzf668\\source\\repos\\LaboProg2\\ProgettoMAUI\\AppConvertitore\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AppConvertitore\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\uzf668\\source\\repos\\LaboProg2\\ProgettoMAUI\\AppConvertitore\\App.xaml.cs",
+              "RelativeToolTip": "AppConvertitore\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T12:19:24.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\uzf668\\source\\repos\\LaboProg2\\ProgettoMAUI\\AppConvertitore\\App.xaml",
+              "RelativeDocumentMoniker": "AppConvertitore\\App.xaml",
+              "ToolTip": "C:\\Users\\uzf668\\source\\repos\\LaboProg2\\ProgettoMAUI\\AppConvertitore\\App.xaml",
+              "RelativeToolTip": "AppConvertitore\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-04T12:19:23.69Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,15 +78,15 @@
               "RelativeDocumentMoniker": "AppConvertitore\\MainPage.xaml",
               "ToolTip": "C:\\Users\\uzf668\\source\\repos\\LaboProg2\\ProgettoMAUI\\AppConvertitore\\MainPage.xaml",
               "RelativeToolTip": "AppConvertitore\\MainPage.xaml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-01-28T14:07:31.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppConvertitore",
+              "DocumentIndex": 2,
+              "Title": "AppConvertitore.csproj",
               "DocumentMoniker": "C:\\Users\\uzf668\\source\\repos\\LaboProg2\\ProgettoMAUI\\AppConvertitore\\AppConvertitore.csproj",
               "RelativeDocumentMoniker": "AppConvertitore\\AppConvertitore.csproj",
               "ToolTip": "C:\\Users\\uzf668\\source\\repos\\LaboProg2\\ProgettoMAUI\\AppConvertitore\\AppConvertitore.csproj",
@@ -79,14 +117,14 @@
               "RelativeDocumentMoniker": "AppConvertitore\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\uzf668\\source\\repos\\LaboProg2\\ProgettoMAUI\\AppConvertitore\\MainPage.xaml.cs",
               "RelativeToolTip": "AppConvertitore\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T14:02:05.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\uzf668\\source\\repos\\LaboProg2\\ProgettoMAUI\\AppConvertitore\\AppShell.xaml",
               "RelativeDocumentMoniker": "AppConvertitore\\AppShell.xaml",

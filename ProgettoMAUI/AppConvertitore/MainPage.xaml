@@ -4,11 +4,11 @@
              x:Class="AppConvertitore.MainPage">
 
     <ScrollView>
+
         <VerticalStackLayout
             Padding="30,0"
             Spacing="25"
             HorizontalOptions="Center">
-
 
             <Label
                 Text="Convertitore Franchi-Euro"
@@ -31,12 +31,17 @@
                 x:Name="lblRisultato"
                 Text="Risultato"
                 FontSize="20"
-                Margin="0,20,0,0"
                 FontAttributes="Bold"
                 HorizontalOptions="Center"/>
 
+            <Button
+                x:Name="btnReset"
+                Text="Pulisci" 
+                TextColor="White"
+                Clicked="btnReset_Clicked"/>
 
         </VerticalStackLayout>
+        
     </ScrollView>
 
 </ContentPage>

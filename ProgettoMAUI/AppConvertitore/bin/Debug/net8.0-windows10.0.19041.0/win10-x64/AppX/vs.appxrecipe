@@ -30,7 +30,7 @@
     <AppXManifest Include="C:\Users\uzf668\source\repos\LaboProg2\ProgettoMAUI\AppConvertitore\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2026-01-28T14:42:59.511</Modified>
+      <Modified>2026-02-04T14:15:28.523</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uzf668\source\repos\LaboProg2\ProgettoMAUI\AppConvertitore\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppConvertitore.dll">
       <PackagePath>AppConvertitore.dll</PackagePath>
-      <Modified>2026-01-28T14:42:59.245</Modified>
+      <Modified>2026-02-04T14:15:28.293</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uzf668\source\repos\LaboProg2\ProgettoMAUI\AppConvertitore\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>AppConvertitore.exe</PackagePath>
-      <Modified>2026-01-28T14:42:59.245</Modified>
+      <Modified>2026-02-04T14:15:28.297</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uzf668\source\repos\LaboProg2\ProgettoMAUI\AppConvertitore\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
